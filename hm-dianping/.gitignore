@@ -1,0 +1,14 @@
+jiHELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/nginx-1.18.0/
+/Redis-7.2.5-Windows-x64-msys2-with-Service/
+*.jmx
